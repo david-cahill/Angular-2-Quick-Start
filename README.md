@@ -4,6 +4,10 @@ This repo follows the Angular 2 quick start tutorial to get a taster of how it w
 
 The tutorial is located here: https://angular.io/docs/ts/latest/quickstart.html#!#create-the-project-folder
 
+## Start it up
+
+Run `npm start` and the application will open up a browser window.
+
 
 
 
